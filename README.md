@@ -6,15 +6,16 @@
 
 ###
 
-<h3 align="left">๋     ࣭ ⭑๋ ࣭ ⭑<i>"Crafting Digital Realms, One Commit at a Time"</i> ๋ ࣭ ⭑๋ ࣭</h3>
+<h3 align="left">&nbsp;&nbsp;&nbsp; ࣭ ⭑๋ ࣭ ⭑<i>"Crafting Digital Realms, One Commit at a Time"</i> ๋ ࣭ ⭑๋ ࣭</h3>
 
 ###
 
-<p align="left">    💻 Full-Stack Developer in the making   <br>    🎓 Associate in Computer Technology Graduate<br>    📜 Student Government Officer<br>    🏅 Consistent Academic Awardee<br>    ✨ Passionate about crafting and building meaningful digital experiences.</p>
+<p align="left">&nbsp;&nbsp;&nbsp;💻 Full-Stack Developer in the making   <br>&nbsp;&nbsp;&nbsp;🎓 Associate in Computer Technology Graduate<br>&nbsp;&nbsp;&nbsp;📜 Student Government Officer<br>&nbsp;&nbsp;&nbsp;🏅 Consistent Academic Awardee<br>&nbsp;&nbsp;&nbsp;✨ Passionate about crafting and building meaningful digital experiences.</p>
 
 ###
 
 <br clear="both">
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
